@@ -1,0 +1,2 @@
+Estoy viendo el tema de permisos en GNU Linux
+Y ahora estoy editando editando el archivo con el usuario de bart.
